@@ -1,6 +1,6 @@
 {
   "name": "mp3tags",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple CLI to display ID3 tags from MP3 files",
   "bin": {
     "mp3tags": "./bin/mp3tags"
