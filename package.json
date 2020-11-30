@@ -1,0 +1,26 @@
+{
+  "name": "mp3tags",
+  "version": "0.0.0",
+  "description": "A simple CLI to display ID3 tags from MP3 files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/mp3tags.git"
+  },
+  "keywords": [
+    "mp3",
+    "cli",
+    "tags",
+    "id3",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/mp3tags/issues"
+  },
+  "homepage": "https://github.com/fvilers/mp3tags#readme"
+}
