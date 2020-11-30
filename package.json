@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/fvilers/mp3tags#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "node-id3": "^0.2.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.10",
