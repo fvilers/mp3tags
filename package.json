@@ -4,7 +4,8 @@
   "description": "A simple CLI to display ID3 tags from MP3 files",
   "scripts": {
     "build": "tsc",
-    "start": "node ./dist"
+    "start": "node ./dist",
+    "start:ts": "ts-node ./src"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   "homepage": "https://github.com/fvilers/mp3tags#readme",
   "devDependencies": {
     "@types/node": "^14.14.10",
+    "ts-node": "^9.0.0",
     "typescript": "^4.1.2"
   }
 }
