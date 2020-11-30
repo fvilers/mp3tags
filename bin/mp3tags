@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+process.title = 'mp3tags';
+
+require('../dist');
